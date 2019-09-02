@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>linxianlong的博客</title>
+  <title>apeipo的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://longlog.me/</id>
   
   <author>
-    <name>Linxianlong</name>
+    <name>apeipo</name>
     
   </author>
   
@@ -168,9 +168,9 @@
     
       <category term="PHP" scheme="http://longlog.me/tags/PHP/"/>
     
-      <category term="LARAVEL" scheme="http://longlog.me/tags/LARAVEL/"/>
-    
       <category term="LUMEN" scheme="http://longlog.me/tags/LUMEN/"/>
+    
+      <category term="LARAVEL" scheme="http://longlog.me/tags/LARAVEL/"/>
     
   </entry>
   
@@ -197,9 +197,9 @@
     
       <category term="PHP" scheme="http://longlog.me/tags/PHP/"/>
     
-      <category term="LARAVEL" scheme="http://longlog.me/tags/LARAVEL/"/>
-    
       <category term="LUMEN" scheme="http://longlog.me/tags/LUMEN/"/>
+    
+      <category term="LARAVEL" scheme="http://longlog.me/tags/LARAVEL/"/>
     
   </entry>
   
